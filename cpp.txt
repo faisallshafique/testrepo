@@ -1,2 +1,3 @@
 zyz
 writing new quick sort
+writing the code for quick sort
